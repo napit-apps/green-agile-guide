@@ -8,6 +8,10 @@ nav_order: 2
 
 # Green Agile Guide — Preview (v0.8)
 
+{: .warning }
+> This website documents the features of the current version of the `Green Agile Guide`. 
+It is still under construction. The content may be incomplete or misleading.
+
 {: .important }
 > This guide has no affiliation with the official Scrum Guides, their authors, or Scrum.org. It builds on established agile concepts but was developed independently and extended with sustainability aspects.
 

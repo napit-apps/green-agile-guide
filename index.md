@@ -10,11 +10,6 @@ description: The Green Agile Guide brings sustainability into agile software dev
 ## The Green Agile Guide – a focused way for teams to build software that matters.
 *Join the movement. Stay in the loop.*
 
-{: .warning }
-> This website documents the features of the current `Green Agile Guide`. 
-The Green Agile Guide is still under construction. The content may be incomplete or misleading.
-
-
 ---
 
 ## 🌿 What is the Green Agile Guide?

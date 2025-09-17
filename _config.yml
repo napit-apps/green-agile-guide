@@ -18,12 +18,12 @@ color_scheme: green
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 
-# External navigation links
-nav_external_links:
-  - title: mehr.wert Software und IT Beratung GmbH
-    url: https://mehrwert.tech
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+# # External navigation links
+# nav_external_links:
+#   - title: mehr.wert Software und IT Beratung GmbH
+#     url: https://mehrwert.tech
+#     hide_icon: false # set to true to hide the external link icon - defaults to false
+#     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
 
 back_to_top: true
