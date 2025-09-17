@@ -2,6 +2,8 @@
 layout: default
 title: About
 permalink: /about/
+nav_exclude: true
+parent: Legal
 ---
 
 <h5>Angaben gemäß § 5 TMG</h5>

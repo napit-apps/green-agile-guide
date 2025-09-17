@@ -12,7 +12,7 @@ description: The Green Agile Guide brings sustainability into agile software dev
 
 {: .warning }
 > This website documents the features of the current `Green Agile Guide`. 
-The Green Agile Guide is still under construction – but the journey has already begun.
+The Green Agile Guide is still under construction. The content may be incomplete or misleading.
 
 
 ---
