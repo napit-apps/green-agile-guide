@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: greenagile.org
+description: A compact operating frame that integrates sustainability empirically into agile software development
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://greenagile.org
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
