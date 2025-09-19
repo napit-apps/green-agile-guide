@@ -35,7 +35,7 @@ The guide builds on the three established dimensions of sustainability:
 - **Economic** – Support long-term maintainability and responsible use of resources  
 - **Social** – Protect team health, promote inclusion, and ensure ethical development
 
-It adds sustainability-focused thinking to agile roles, artifacts, and commitments — with measurable principles and concrete guidance.
+It extends agile roles, artifacts, and commitments with sustainability-focused thinking, measurable principles, and concrete guidance.
 
 It does not prescribe new ceremonies or replace existing frameworks.  
 Instead, it complements them by addressing sustainability as a cross-cutting, strategic aspect of product development.
