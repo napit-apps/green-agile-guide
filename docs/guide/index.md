@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Green Agile Guide
+title: The Green Agile Guide
 description: A compact operating frame that integrates sustainability empirically into agile software development — without adding new meetings.
-permalink: /guide/
 nav_order: 2
+permalink: /guide/
 ---
 
-# Green Agile Guide — Summary
+# The Green Agile Guide
 
 {: .warning }
 > This website documents the features of the current version of the `Green Agile Guide`. 

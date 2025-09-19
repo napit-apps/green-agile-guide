@@ -2,15 +2,17 @@
 title: Home
 layout: home
 nav_order: 1
-description: The Green Agile Guide brings sustainability into agile software development with clear roles, values, and metrics — without adding new meetings.
+description: The Green Agile Guide brings sustainability into agile software development with clear roles, values, and metrics.
 ---
 
-# Agile Meets Sustainability
+# The Green Agile Guide  
+**A structured extension of agile practices — with sustainability as a core concern**
 
-## A structured guide for integrating sustainability into agile product development
+Agile methods have improved delivery speed. But their ecological, economic, and social impact often remains unclear.
 
-The Green Agile Guide defines how agile teams can deliver valuable software while reducing ecological, economic, and social harm.  
-It extends established agile roles, artifacts, and practices with measurable sustainability principles and KPIs — without introducing new meetings or frameworks.
+This guide helps teams build software that **lasts longer**, **consumes fewer resources**, and **supports team well-being** — without adding new frameworks or process overhead.
+
+It extends agile roles and artifacts with practical, sustainability-driven guidance.
 
 ---
 
@@ -33,7 +35,7 @@ But they rarely address the long-term ecological, economic, or social impact of 
 
 This guide introduces a structured approach to integrate sustainability into agile product development — without adding organizational overhead.
 
-It is based on three dimensions:
+It builds on the three established dimensions of sustainability:
 
 - **Ecological** – Reduce energy consumption, emissions, and waste in software systems  
 - **Economic** – Support long-term maintainability and responsible use of resources  
@@ -79,13 +81,12 @@ Each area addresses a specific aspect of agile product development from a sustai
 - [Green Developer Team](/guide/roles/green-developer-team)
 
 ### Artifacts & Commitments
-
-- [Green Product Backlog](/guide/artifacts/product-backlog)
-- [Iteration Backlog](/guide/artifacts/iteration-backlog)
-- [Definition of Done](/guide/artifacts/done)
-- [Increment](/guide/artifacts/increment)
 - [Product Goal](/guide/artifacts/product-goal)
+- [Green Product Backlog](/guide/artifacts/product-backlog)
 - [Iteration Goal](/guide/artifacts/iteration-goal)
+- [Iteration Backlog](/guide/artifacts/iteration-backlog)
+- [Increment](/guide/artifacts/increment)
+- [Definition of Done](/guide/artifacts/done)
 
 ### Metrics & Impact
 
