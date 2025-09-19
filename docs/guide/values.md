@@ -9,8 +9,9 @@ permalink: /guide/values
 # Values & Principles
 
 The Green Agile Guide is based on two foundational values:  
-- **Awareness** – seeing the broader impact of what we build and how we build it  
-- **Responsibility** – acting intentionally to reduce harm and create long-term value
+- [Awareness](/guide/values/awareness) – seeing the broader impact of what we build and how we build it  
+- [Responsibility](/guide/values/responsibility) – acting intentionally to reduce harm and create long-term value
+
 
 These values express what sustainability means in the context of agile product development:  
 Not as a goal on a roadmap — but as a lens for everyday decisions.
