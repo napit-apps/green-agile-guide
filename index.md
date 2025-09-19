@@ -77,8 +77,8 @@ Each area addresses a specific aspect of agile product development from a sustai
 ### Roles in Green Agile
 
 - [Green Agile Coach](/guide/roles/green-agile-coach)
-- [Green Product Owner](/guide/roles/green-product-owner)
-- [Green Developer Team](/guide/roles/green-developer-team)
+- [Product Owner](/guide/roles/product-owner)
+- [Developer Team](/guide/roles/developer-team)
 
 ### Artifacts & Commitments
 - [Product Goal](/guide/artifacts/product-goal)

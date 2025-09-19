@@ -8,7 +8,6 @@ permalink: /guide/disclaimer
 
 # Disclaimer & Scope
 
-
 ## Positioning and compatibility
 
 The Green Agile Guide is not a replacement for frameworks like Scrum, SAFe, or others.  

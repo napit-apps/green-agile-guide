@@ -61,8 +61,8 @@ We add **two** values that make sustainability operational.
 
 Sustainability is **anchored in existing roles**; adding roles would fragment accountability.
 
-- **Green Product Owner (GPO):** Defines “value” including measurable sustainability goals (e.g., SCI/WCAG/TCO), aligns the **Green Product Backlog** to a **Green Product Goal**, orders by impact and risk, makes trade-offs transparent, and links to corporate goals/CSRD.  
-- **Green Developer Team (GDT):** Delivers a usable increment each **Development Iteration** that meets the **Green Definition of Done**; monitors proxy metrics (e.g., data/txn, CPU-time/txn), reduces hotspots, and records key architecture/data decisions (**ADR-Light**).  
+- **Product Owner (GPO):** Defines “value” including measurable sustainability goals (e.g., SCI/WCAG/TCO), aligns the **Green Product Backlog** to a **Green Product Goal**, orders by impact and risk, makes trade-offs transparent, and links to corporate goals/CSRD.  
+- **Developer Team (GDT):** Delivers a usable increment each **Development Iteration** that meets the **Green Definition of Done**; monitors proxy metrics (e.g., data/txn, CPU-time/txn), reduces hotspots, and records key architecture/data decisions (**ADR-Light**).  
 - **Green Agile Coach (GAC):** Embeds practices in the process (budgets in planning, impact in review, green-focused retros), removes impediments (tooling/data access), and strengthens empiricism/system thinking. Optional: rotating **Sustainability Champion** “hat” (10–20% capacity) or enabling functions (e.g., GreenOps) across teams.
 
 ---
