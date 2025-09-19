@@ -16,15 +16,24 @@ It extends agile roles and artifacts with practical, sustainability-driven guida
 
 ---
 
-## Quick access
+## Quick Access
 
-Use the links below to explore key sections of the guide:
+Use the links below to explore key parts of the Green Agile Guide:
 
-- [Sustainability & Empiricism](/guide/sustainability-and-empiricism)
-- [Green Product Backlog](/guide/artifacts/product-backlog)
-- [Roles in Green Agile](/guide/roles)
-- [Impact Metrics](/metrics)
-- [Guide Overview](/guide)
+- [Sustainability & Empiricism](/guide/sustainability-and-empiricism)  
+  _Why agile practices are well-suited for sustainability — and how empirical loops help make impact visible and adaptable._
+
+- [Strategic Impact Planning](/guide/artefacts/strategic-impact-planning)  
+  _Bringing sustainability into the backlog: aligning business goals with ecological, economic, and social impact._
+
+- [Sustainable Iteration Planning](/guide/artefacts/sustainable-iteration-planning)  
+  _Making sustainable delivery part of every iteration — without compromising product goals or developer health._
+
+- [Outcome & Quality Anchoring](/guide/artefacts/outcome-quality-anchoring)  
+  _Defining quality in a way that includes environmental, economic, and social sustainability — every Sprint._
+
+- [Roles in Green Agile](/guide/roles)  
+  _Responsibility without new roles — how Product Owners, Developers, and Agile Coaches embed sustainability into their work._
 
 ---
 
