@@ -13,7 +13,7 @@ The Green Agile Guide is based on two foundational values:
 - [Responsibility](/guide/values/responsibility) – acting intentionally to reduce harm and create long-term value
 
 
-These values express what sustainability means in the context of agile product development:  
+These values express what sustainability means in the context of green agile product development:  
 Not as a goal on a roadmap — but as a lens for everyday decisions.
 
 They serve as the ethical and strategic foundation for all roles, artifacts, and practices described in this guide.

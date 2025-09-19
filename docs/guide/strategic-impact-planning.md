@@ -62,7 +62,7 @@ They ensure that sustainability is part of the planning conversation — from th
 
 ---
 
-## Summary  
+## Final Note  
 Strategic Impact Planning aligns product goals with long-term responsibility.  
 It sharpens direction, exposes blind spots, and enables teams to make conscious, sustainable decisions — guided by clear values and anchored in transparency.
 

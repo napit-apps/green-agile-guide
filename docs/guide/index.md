@@ -6,38 +6,78 @@ nav_order: 2
 permalink: /guide/
 ---
 
-# The Green Agile Guide  
-**Agility meets sustainability — with focus and integrity**
-
-The Green Agile Guide extends proven agile practices with clear rules, responsibilities, and artifacts for sustainable software development.  
-It integrates ecological, economic, and social impact into **day-to-day decisions** — without adding new roles or ceremonies.
-
-The guide is designed for agile software teams and organizations who want to deliver responsibly — and align product development with long-term goals.
-
----
-
-Sustainability is not a parallel track.  
-It shapes how we **prioritize**, **plan**, and **assess quality**.
-
-To support this, the guide introduces three lightweight, integrable artefacts — directly embedded into existing workflows:
-
-- The [**Green Product Backlog**](/guide/artefacts/green-product-backlog) helps teams order work by value **and** impact.  
-- [**Sustainable Iteration Planning**](/guide/artefacts/sustainable-iteration-planning) brings sustainability into **short-term delivery planning**.  
-- The [**Green Definition of Done**](/guide/artefacts/green-definition-of-done) anchors **sustainable quality** in every increment.
-
-These artefacts are supported by a [shared anchoring model](/guide/artefacts/strategic-impact-planning) that links product decisions to corporate sustainability goals — and ensures long-term consistency across teams.
+# The Green Agile Guide
 
 {: .note }
-Sustainability in Green Agile is implemented **without adding new meetings**.  
-It is integrated into familiar events such as Sprint Planning, Daily Scrum, Review, and Retrospective — or their equivalents in scaled setups like SAFe or Kanban.
-
----
-
-The Green Agile Guide evolves through **empirical learning** — just like the products it helps build.  
-It is not a framework replacement, but a focused **extension** for organizations that want to deliver software with long-term impact.
+This guide helps agile teams integrate sustainability — ecological, economic, and social — directly into delivery.  
+It builds on proven agile practices and adds clear rules, roles, and metrics for long-term responsibility.
 
 {: .important }
-This guide has no affiliation with the official Scrum Guides, their authors, or Scrum.org.  
-It builds on established agile concepts but was developed independently and extended with sustainability principles.
+This framework has no affiliation with the official Scrum Guide or Scrum.org.  
+It extends common agile methods independently, with a specific focus on sustainability.
 
 ---
+
+## Foundations
+
+The Green Agile Guide brings sustainability into the core of modern software development — not as an add-on, but as a measurable, quality-driven principle. 
+It aligns ecological, economic, and social impact with agile delivery — in every role, artefact, and decision.
+
+Start with the [Introduction & Motivation](/guide/introduction) to understand the need for sustainable agility, then clarify its [Disclaimer & Scope](/guide/disclaimer), and explore how [Sustainability & Empiricism](/guide/sustainability-and-empiricism) interact at the core of the method.
+
+---
+
+## Values & Principles
+
+Two Values drive behavior in Green Agile and express what sustainability means in the context of green agile product development:  
+- [Awareness](/guide/values/awareness) encourages teams to pause before acting, questioning assumptions and side effects.  
+- [Responsibility](/guide/values/responsibility) anchors ownership of long-term impact across decisions, iterations, and life cycles.
+
+---
+
+## Roles in Green Agile
+
+No new roles are introduced — but existing ones evolve with extended responsibilities:
+
+- The [Green Agile Coach](/guide/roles/green-agile-coach) facilitates systemic change, embeds sustainability in team practices, and strengthens empiricism.
+- The [Product Owner](/guide/roles/product-owner) defines value through impact goals and steers the backlog toward sustainable outcomes.
+- The [Developer Team](/guide/roles/developer-team) delivers high-quality increments that meet sustainability criteria — across ecological, economic, and social dimensions.
+
+---
+
+## Artefacts & Sustainability Anchors
+
+Sustainability is embedded in daily practice through three key artefacts:
+
+- [Strategic Impact Planning](/guide/artefacts/strategic-impact-planning) ensures the product roadmap aligns with long-term sustainability goals, guiding investment and decision-making over time.
+- [Sustainable Iteration Planning](/guide/artefacts/sustainable-iteration-planning) focuses each iteration on delivering value that lasts, balancing delivery speed with sustainability signals.
+- [Outcome & Quality Anchoring](/guide/artefacts/outcome-quality-anchoring) extends the Definition of Done to make sustainability part of the quality baseline — not an afterthought.
+
+---
+
+## Meetings & Events
+
+Green Agile introduces **no new meetings**.
+Sustainability is implemented **within existing Agile events**, such as:
+
+- Sprint Planning / Iteration Planning  
+- Daily Scrum / Daily Check-ins  
+- Sprint Review / Product Review  
+- Sprint Retrospective  
+- Scaled ceremonies like PI Planning or Quarterly Planning
+
+This ensures the guide remains compatible with existing setups like Scrum, SAFe, or Kanban — adoption is lightweight and fully embedded in day-to-day practice.
+
+---
+
+## Evolution
+
+The Green Agile Guide evolves iteratively.  
+It welcomes input from practice, research, and regulation (e.g. CSRD, ESRS, ISO standards). Organizations are encouraged to adapt the guide to their specific context — the core principles remain: **empiricism**, **self-accountability**, and **value creation that lasts**.
+
+---
+
+## License
+
+The Green Agile Guide is open-sourced under the [MIT License](https://opensource.org/licenses/MIT).  
+Copyright © 2025 mehr.wert Software und IT Beratung GmbH.
