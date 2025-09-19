@@ -66,8 +66,8 @@ Each area addresses a specific aspect of agile product development from a sustai
 ### Foundations
 
 - [Introduction & Motivation](/guide/introduction)
-- [Sustainability & Empiricism](/guide/sustainability-and-empiricism)
 - [Disclaimer & Scope](/guide/disclaimer)
+- [Sustainability & Empiricism](/guide/sustainability-and-empiricism)
 
 ### Values & Principles
 
