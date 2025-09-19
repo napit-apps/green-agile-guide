@@ -6,7 +6,7 @@ permalink: /guide/
 nav_order: 2
 ---
 
-# Green Agile Guide — Preview (v0.8)
+# Green Agile Guide — Summary
 
 {: .warning }
 > This website documents the features of the current version of the `Green Agile Guide`. 

@@ -2,33 +2,108 @@
 title: Home
 layout: home
 nav_order: 1
-description: The Green Agile Guide brings sustainability into agile software development with clear rules, roles, and metrics — without adding new meetings.
+description: The Green Agile Guide brings sustainability into agile software development with clear roles, values, and metrics — without adding new meetings.
 ---
 
 # Agile Meets Sustainability
 
-## The Green Agile Guide – a focused way for teams to build software that matters.
-*Join the movement. Stay in the loop.*
+## A structured guide for integrating sustainability into agile product development
+
+The Green Agile Guide defines how agile teams can deliver valuable software while reducing ecological, economic, and social harm.  
+It extends established agile roles, artifacts, and practices with measurable sustainability principles and KPIs — without introducing new meetings or frameworks.
 
 ---
 
-## 🌿 What is the Green Agile Guide?
+## Quick access
 
-The Green Agile Guide bridges sustainability and agility across three core dimensions:
+Use the links below to explore key sections of the guide:
 
-- **Ecological** – Build code and systems that consume less, waste less, and last longer  
-- **Economical** – Make smarter decisions through lean principles and long-term thinking  
-- **Social** – Empower people, support team wellbeing, and build with ethical awareness
+- [Sustainability & Empiricism](/guide/sustainability-and-empiricism)
+- [Green Product Backlog](/guide/artifacts/product-backlog)
+- [Roles in Green Agile](/guide/roles)
+- [Impact Metrics](/metrics)
+- [Guide Overview](/guide)
 
 ---
 
-## 🚧 The Green Agile Guide is still under construction – but the journey has already begun.
+## Why this guide?
 
-We’re actively working on the *Green Agile Guide* and would love to bring curious minds on board early.  
+Agile methods have improved how software is delivered.  
+But they rarely address the long-term ecological, economic, or social impact of the systems we build.
 
-If you prefer, jump straight to the **[Preview](/guide)**.
+This guide introduces a structured approach to integrate sustainability into agile product development — without adding organizational overhead.
 
-### Want to stay in the loop or become a collaborator?
-Drop us a message – we’ll reach out as soon as we're ready to share more.
+It is based on three dimensions:
 
-<!-- Contact Icons (injected from footer.html) -->
+- **Ecological** – Reduce energy consumption, emissions, and waste in software systems  
+- **Economic** – Support long-term maintainability and responsible use of resources  
+- **Social** – Protect team health, promote inclusion, and ensure ethical development
+
+{: .note }
+This is not a new framework. It is a focused extension of agile practices and roles, with sustainability as a core concern.
+
+---
+
+## Current status
+
+The Green Agile Guide is an independent initiative, developed by [mehr.wert Software und IT Beratung GmbH](https://mehrwert.tech).  
+It evolves through practical work with agile teams and reflects real-world challenges in aligning product development with sustainability goals.
+
+A [preview version](/guide) is already available and includes selected chapters, definitions, and metrics.
+
+{: .important }
+If you want to follow the progress or contribute your perspective, [feel free to get in touch](mailto:kontakt@mehrwert.tech).
+
+---
+
+## What’s inside
+
+The Green Agile Guide is structured into focused sections.  
+Each area addresses a specific aspect of agile product development from a sustainability perspective.
+
+### Foundations
+
+- [Introduction & Motivation](/guide/introduction)
+- [Sustainability & Empiricism](/guide/sustainability-and-empiricism)
+- [Disclaimer & Scope](/guide/disclaimer)
+
+### Values & Principles
+
+- [Awareness](/guide/values/awareness)
+- [Responsibility](/guide/values/responsibility)
+
+### Roles in Green Agile
+
+- [Green Agile Coach](/guide/roles/green-agile-coach)
+- [Green Product Owner](/guide/roles/green-product-owner)
+- [Green Developer Team](/guide/roles/green-developer-team)
+
+### Artifacts & Commitments
+
+- [Green Product Backlog](/guide/artifacts/product-backlog)
+- [Iteration Backlog](/guide/artifacts/iteration-backlog)
+- [Definition of Done](/guide/artifacts/done)
+- [Increment](/guide/artifacts/increment)
+- [Product Goal](/guide/artifacts/product-goal)
+- [Iteration Goal](/guide/artifacts/iteration-goal)
+
+### Metrics & Impact
+
+- [Impact Areas](/metrics)
+- [Sample Metrics](/metrics/sample)
+- [SCI Score](/metrics/sci)
+
+{: .note }
+All sections are written with practical application in mind. The structure follows agile terminology but introduces sustainability-related additions and clarifications.
+
+---
+
+## Stay connected
+
+The Green Agile Guide is growing — and we welcome feedback, ideas, and contributions.
+
+If you want to stay informed or get involved, feel free to reach out.
+
+[Get in touch](mailto:kontakt@mehrwert.tech){: .btn .btn-primary }
+
+<!-- Footer icons handled via footer.html -->
