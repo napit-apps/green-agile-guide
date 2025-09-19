@@ -5,7 +5,7 @@ nav_order: 1
 description: The Green Agile Guide brings sustainability into agile software development with clear roles, values, and metrics.
 ---
 
-# The Green Agile Guide  
+# Green Agile  
 **A structured extension of agile practices — with sustainability as a core concern**
 
 Agile methods have improved delivery speed. But their ecological, economic, and social impact often remains unclear.
@@ -80,13 +80,10 @@ Each area addresses a specific aspect of agile product development from a sustai
 - [Product Owner](/guide/roles/product-owner)
 - [Developer Team](/guide/roles/developer-team)
 
-### Artifacts & Commitments
-- [Product Goal](/guide/artifacts/product-goal)
-- [Green Product Backlog](/guide/artifacts/product-backlog)
-- [Iteration Goal](/guide/artifacts/iteration-goal)
-- [Iteration Backlog](/guide/artifacts/iteration-backlog)
-- [Increment](/guide/artifacts/increment)
-- [Definition of Done](/guide/artifacts/done)
+### Artefacts & Sustainability Anchors
+- [Strategic Impact Planning](/guide/artefacts/strategic-impact-planning) 
+- [Sustainable Iteration Planning](/guide/artefacts/sustainable-iteration-planning)
+- [Outcome & Quality Anchoring](/guide/artefacts/outcome-quality-anchoring)
 
 ### Metrics & Impact
 
