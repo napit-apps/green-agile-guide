@@ -1,13 +1,13 @@
 ---
 layout: minimal
-title: Imprint
+title: Legal Notice
 nav_order: 1
 permalink: /imprint/
 nav_exclude: true
 parent: Legal
 ---
 
-# Imprint
+# Legal Notice
 
 ## Provider Information
 
