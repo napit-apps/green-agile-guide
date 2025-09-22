@@ -106,3 +106,9 @@ Examples by dimension:
 
 ## Final note
 The Product Owner turns sustainability into a **strategic product concern** — not by adding complexity, but by connecting **what** is being built with **why** it matters in the long run.
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/roles/green-agile-coach" style="text-small">← Green Agile Coach</a>
+  <a href="/guide/roles/developer-team" style="text-small">Developmer Team →</a>
+</div>

@@ -40,3 +40,9 @@ These changes serve two purposes:
 {: .warning }
 The Green Agile Guide is not an official extension of Scrum or any other framework.  
 It is an independent interpretation of agile principles in the context of sustainable product development.
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/introduction" style="text-small">← Introcucation & Motivation</a>
+  <a href="/guide/sustainability-and-empiricism" style="text-small">Sustainability & Empiricism →</a>
+</div>

@@ -111,3 +111,9 @@ Here are some examples by dimension:
 The Green Agile Coach is the enabler of applied sustainability in agile environments.  
 They ensure that values like [awareness](/guide/values/awareness) and [responsibility](/guide/values/responsibility) become more than just words —  
 they become part of how teams think, decide, and deliver.
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/roles" style="text-small">← Roles in Green Agile</a>
+  <a href="/guide/roles/product-owner" style="text-small">Product Owner →</a>
+</div>

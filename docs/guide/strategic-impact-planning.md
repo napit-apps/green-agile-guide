@@ -69,3 +69,10 @@ It sharpens direction, exposes blind spots, and enables teams to make conscious,
 {: .note }
 Sustainability in Green Agile is implemented **without adding new meetings**.  
 Instead, it is **integrated into common Agile events**. This ensures adoption is smooth, lightweight, and compatible with frameworks like Scrum, SAFe or Kanban.
+
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/artefacts" style="text-small">← Artefacts & Sustainability Anchors</a>
+  <a href="/guide/artefacts/sustainable-iteration-planning" style="text-small">Sustainable Iteration Planning →</a>
+</div>

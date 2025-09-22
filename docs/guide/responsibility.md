@@ -24,3 +24,9 @@ Where awareness creates visibility, responsibility creates movement.
 {: .note }
 Responsibility is not a role — it is a shared value.  
 It grows when teams have the space, tools, and support to act on what they learn.
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/values/awareness" style="text-small">← Awareness</a>
+  <a href="/guide/roles" style="text-small">Roles in Green Agile →</a>
+</div>

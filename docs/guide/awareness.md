@@ -24,3 +24,9 @@ It begins with asking better questions — and caring about the answers.
 {: .note }
 Awareness is the foundation for change.  
 Teams cannot act on what they do not see, track, or acknowledge.
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/values" style="text-small">← Values & Principles</a>
+  <a href="/guide/values/responsibility" style="text-small">Responsibility →</a>
+</div>

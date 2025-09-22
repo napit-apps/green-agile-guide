@@ -47,3 +47,9 @@ The guide is modular. Each section can be applied independently and adapted to y
 The Green Agile Guide is an independent work. It is not affiliated with Scrum.org, the Scrum Guide, or any official agile framework.  
 Terminology and structure are inspired by established agile practices but have been extended and adapted to reflect sustainability concerns.  
 Some terms have been renamed to clarify focus and avoid legal or conceptual overlap.
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/" style="text-small">← The Green Agile Guide</a>
+  <a href="/guide/disclaimer" style="text-small">Disclaimer & Scope →</a>
+</div>

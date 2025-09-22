@@ -110,3 +110,8 @@ By expanding the Definition of Done, teams deliver outcomes that last — for th
 {: .note }
 Sustainability in Green Agile is implemented **without adding new meetings**.  
 Instead, it is **integrated into common Agile events**. This ensures adoption is smooth, lightweight, and compatible with frameworks like Scrum, SAFe or Kanban.
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/artefacts/sustainable-iteration-planning" style="text-small">← Sustainable Iteration Planning</a>
+</div>

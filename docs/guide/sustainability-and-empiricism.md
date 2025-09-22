@@ -51,3 +51,10 @@ This guide provides practical ways to include sustainability in your existing fe
 {: .note }
 Sustainability does not require new artifacts or methods.  
 It requires awareness, visibility, and the willingness to act on what you learn.
+
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/disclaimer" style="text-small">← Disclaimer & Scope</a>
+  <a href="/guide/values" style="text-small">Values & Principles →</a>
+</div>

@@ -103,3 +103,9 @@ These indicators are not mandatory — but they help teams reflect, track progre
 ## Final note
 Without developers, sustainability stays theoretical.  
 With them, it becomes a **daily practice** — visible in every line of code, every architectural choice, and every team interaction.
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/guide/roles/product-owner" style="text-small">← Product Owner</a>
+  <a href="/guide/artefacts" style="text-small">Artefacts & Sustainability Anchors →</a>
+</div>
