@@ -57,13 +57,15 @@ This is not a new framework. It is a focused extension of agile practices and ro
 
 ## Current status
 
-The Green Agile Guide is an independent initiative, developed by [mehr.wert Software und IT Beratung GmbH](https://mehrwert.tech).  
-It evolves through practical work with agile teams and reflects real-world challenges in aligning product development with sustainability goals.
+The Green Agile Guide is an independent initiative started by **Marcel Russ**, an experienced Agile Coach, sustainability advocate, and founder of [mehr.wert Software und IT Beratung GmbH](https://mehrwert.tech).  
+It builds on real-world experience from software delivery, scaled agile environments, and sustainability practices in enterprise IT.
 
-A [preview version](/guide) is already available and includes selected chapters, definitions, and metrics.
+The Green Agile Guide evolves through practical work with agile teams and reflects real-world challenges in aligning product development with sustainability goals.
+
+A [first version](/guide) is already available and includes selected chapters, definitions, and metrics.
 
 {: .important }
-If you want to follow the progress or contribute your perspective, [feel free to get in touch](mailto:kontakt@mehrwert.tech).
+Curious to share your perspective or explore collaboration? [Reach out anytime](mailto:kontakt@mehrwert.tech).
 
 ---
 
