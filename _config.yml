@@ -6,6 +6,7 @@ url: https://greenagile.org
 
 aux_links:
   View on GitHub: https://github.com/napit-apps/green-agile-guide/
+  Legal: /legal
 
 aux_links_new_tab: true
 
@@ -29,7 +30,7 @@ color_scheme: green
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: 'Copyright &copy; 2025 mehr.wert Software und IT Beratung GmbH. <a href="/about">About.</a>'
+footer_content: 'Copyright &copy; 2025 mehr.wert Software und IT Beratung GmbH. <a href="/legal/">Legal Information</a>'
 
 callouts_level: quiet # or loud
 callouts:
