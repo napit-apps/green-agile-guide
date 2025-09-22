@@ -101,9 +101,6 @@ Each area addresses a specific aspect of agile product development from a sustai
 {: .warning}
 This section is currently in development…
 
-- [Impact Areas](/metrics)
-- [Sample Metrics](/metrics/sample)
-- [SCI Score](/metrics/sci)
 
 {: .note }
 All sections are written with practical application in mind. The structure follows agile terminology but introduces sustainability-related additions and clarifications.
