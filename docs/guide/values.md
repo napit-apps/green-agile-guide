@@ -25,7 +25,7 @@ They serve as the ethical and strategic foundation for all roles, artifacts, and
 Sustainability cannot be addressed through process changes alone.  
 It requires a mindset shift — a willingness to see beyond the current iteration and take ownership for long-term impact.
 
-Awareness and responsibility close that gap.  
+**Awareness** and **Responsibility** close that gap.  
 They connect the principles of agility with the realities of ecological boundaries, social responsibility, and economic durability.
 
 These values give teams a practical way to make sustainability visible, discussable, and actionable — without adding complexity.
