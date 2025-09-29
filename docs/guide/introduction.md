@@ -20,7 +20,7 @@ It supports teams in making sustainability a visible, shared, and actionable con
 
 ## Who it's for
 
-This guide is intended for agile organizations, teams, product owners, coaches, and decision-makers  
+This guide is intended for agile organizations, teams, Product Leads, coaches, and decision-makers  
 who want to improve how software is built — not only how fast.
 
 It reflects real-world constraints and aims to support small, meaningful changes that scale over time.  

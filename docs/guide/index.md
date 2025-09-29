@@ -40,8 +40,8 @@ Two Values drive behavior in Green Agile and express what sustainability means i
 No new roles are introduced — but existing ones evolve with extended responsibilities:
 
 - The [Green Agile Coach](/guide/roles/green-agile-coach) facilitates systemic change, embeds sustainability in team practices, and strengthens empiricism.
-- The [Product Owner](/guide/roles/product-owner) defines value through impact goals and steers the backlog toward sustainable outcomes.
-- The [Developer Team](/guide/roles/developer-team) delivers high-quality increments that meet sustainability criteria — across ecological, economic, and social dimensions.
+- The [Product Lead](/guide/roles/product-lead) defines value through impact goals and steers the backlog toward sustainable outcomes.
+- The [Engineering Team](/guide/roles/engineering-team) delivers high-quality increments that meet sustainability criteria — across ecological, economic, and social dimensions.
 
 ---
 

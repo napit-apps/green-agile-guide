@@ -33,7 +33,7 @@ Use the links below to explore key parts of the Green Agile Guide:
   _Defining quality in a way that includes environmental, economic, and social sustainability — every Sprint._
 
 - [Roles in Green Agile](/guide/roles)  
-  _Responsibility without new roles — how Product Owners, Developers, and Agile Coaches embed sustainability into their work._
+  _Responsibility without new roles — how Product Leads, Developers, and Agile Coaches embed sustainability into their work._
 
 ---
 
@@ -88,8 +88,8 @@ Each area addresses a specific aspect of agile product development from a sustai
 ### Roles in Green Agile
 
 - [Green Agile Coach](/guide/roles/green-agile-coach)
-- [Product Owner](/guide/roles/product-owner)
-- [Developer Team](/guide/roles/developer-team)
+- [Product Lead](/guide/roles/product-lead)
+- [Engineering Team](/guide/roles/engineering-team)
 
 ### Artefacts & Sustainability Anchors
 - [Strategic Impact Planning](/guide/artefacts/strategic-impact-planning) 

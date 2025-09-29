@@ -115,5 +115,5 @@ they become part of how teams think, decide, and deliver.
 ---
 <div style="display: flex; justify-content: space-between;">
   <a href="/guide/roles" style="text-small">← Roles in Green Agile</a>
-  <a href="/guide/roles/product-owner" style="text-small">Product Owner →</a>
+  <a href="/guide/roles/product-lead" style="text-small">Product Lead →</a>
 </div>
