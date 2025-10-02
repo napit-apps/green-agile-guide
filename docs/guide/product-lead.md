@@ -104,8 +104,7 @@ Defining **sustainability indicators** helps align teams and stakeholders around
 
 ## Final note
 
-The Product Lead connects **product direction** with **sustainability impact** — not by adding complexity,  
-but by embedding **awareness, responsibility**, and **measurable outcomes** into product decisions.
+The Product Lead connects **product direction** with **sustainability impact** — not by adding complexity, but by embedding **awareness, responsibility**, and **measurable outcomes** into product decisions.
 
 ---
 <div style="display: flex; justify-content: space-between;">
