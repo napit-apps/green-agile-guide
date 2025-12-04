@@ -2,7 +2,7 @@
 layout: default
 title: Percentage of Backlog Items with Impact Block
 nav_order: 1
-parent: Green-Product-Backlog
+parent: Green Product Backlog Metrics
 permalink:  /metrics/green-product-backlog/percentage-of-backlog-items-with-impact-block
 ---
 

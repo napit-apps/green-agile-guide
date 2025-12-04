@@ -2,7 +2,7 @@
 layout: default
 title: Green Product Backlog Metrics
 nav_order: 1
-parent: metrics
+parent: Metrics
 permalink: /metrics/green-product-backlog
 ---
 
