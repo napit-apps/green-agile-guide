@@ -7,14 +7,9 @@ permalink: /metrics/
 ---
 
 # Metrics
-Direct
-{: .label .label-red }
 
-Ecological
-{: .label .label-green }
 
-Economical
-{: .label .label-blue }
-
-Social
-{: .label .label-yellow }
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/metrics/product-management" style="text-small">Product Management →</a>
+</div>

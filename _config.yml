@@ -48,3 +48,8 @@ callouts:
   warning:
     title: Warning
     color: red
+  classification:
+    title: Classification
+    color: purple
+
+math: katex

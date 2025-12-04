@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Green Product Backlog Metrics
+title: Product Management
 nav_order: 1
 parent:  Metrics & Impact
-permalink: /metrics/green-product-backlog
+permalink: /metrics/product-management
 ---
 
-# Green Product Backlog Metrics
+# Product Management
 
 This section provides an overview of all **Green Product Backlog** metrics. These metrics help assess transparency, strategic alignment, and the sustainable impact of backlog items. They support teams in making value-based, impact-oriented decisions and ensure that sustainability considerations are embedded directly into product planning and refinement.
 
@@ -14,7 +14,7 @@ Below is the list of all metrics in this category:
 
 ## Metrics Overview
 
-- **[Percentage of Backlog Items with Impact Block](impact-block-coverage.md)**  
+- **[Percentage of Backlog Items with Impact Block](/metrics/product-management/percentage-of-backlog-items-with-impact-block)**  
   Measures how many backlog items include a fully completed Impact Block, ensuring transparency and value-based prioritization.
 
 - **[Percentage of Indirect Impact Items](indirect-impact-percentage.md)**  
@@ -24,3 +24,9 @@ Below is the list of all metrics in this category:
   Counts how many backlog items explicitly reference a Green Product Goal, improving strategic alignment.
 
 More Green Product Backlog metrics will be added over time as the guide expands.
+
+---
+<div style="display: flex; justify-content: space-between;">
+  <a href="/metrics" style="text-small">← Metrics & Impact</a>
+  <a href="/metrics/product-management/percentage-of-backlog-items-with-impact-block" style="text-small">Percentage of Backlog Items with Impact Block →</a>
+</div>
