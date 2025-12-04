@@ -2,7 +2,7 @@
 layout: default
 title: Number of Item-to-Goal Links
 nav_order: 3
-parent: Green-Product-Backlog
+parent: Green Product Backlog Metrics
 permalink:  /metrics/green-product-backlog/number-of-item-to-goal-links
 ---
 
