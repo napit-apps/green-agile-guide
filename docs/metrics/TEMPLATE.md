@@ -23,6 +23,10 @@ systemic
 - What does this metric measure?  
 - Why is it important for Green Agile?  
 - Which type of sustainable impact does it make visible?
+- What exactly is being measured?  
+- How is the value generated?  
+- How does it influence backlog, architecture, testing, CI/CD, UX, or operations?  
+- Which Green Agile principles does it support (e.g., Value Focus, Lean, Flow, Carbon Awareness)?
 
 ## Classification --> Lila Box (icon, tagging)
 
@@ -32,23 +36,14 @@ systemic
 > - **Measurement Frequency:** per iteration / per release / per year  
 > - **Responsibility:** Green Agile Coach / Product Lead / Engineering Team  
 
-## Purpose
+## Impact
 - Which goals does this metric support?  
 - Which problem does it reveal or help solve?  
 - Why is it relevant within the Green Agile workflow?  
 
-## Description
-Detailed explanation:
-- What exactly is being measured?  
-- How is the value generated?  
-- How does it influence backlog, architecture, testing, CI/CD, UX, or operations?  
-- Which Green Agile principles does it support (e.g., Value Focus, Lean, Flow, Carbon Awareness)?
-
 ## Calculation
 
-$$
-11
-$$ 
+## Example
 
 ---
 <div style="display: flex; justify-content: space-between;">

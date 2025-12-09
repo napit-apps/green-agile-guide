@@ -17,10 +17,10 @@ Below is the list of all metrics in this category:
 - **[Percentage of Backlog Items with Impact Block](/metrics/product-management/percentage-of-backlog-items-with-impact-block)**  
   Measures how many backlog items include a fully completed Impact Block, ensuring transparency and value-based prioritization.
 
-- **[Percentage of Indirect Impact Items](indirect-impact-percentage.md)**  
+- **[Percentage of Indirect Impact Items](/metrics/product-management/percentage-of-indirect-impact-items)**  
   Tracks how many items enable indirect sustainability effects, such as supporting sustainable user behavior.
 
-- **[Number of Item-to-Goal Links](item-to-goal-links.md)**  
+- **[Number of Item-to-Goal Links](/metrics/product-management/number-of-item-to-goal-links)**  
   Counts how many backlog items explicitly reference a Green Product Goal, improving strategic alignment.
 
 More Green Product Backlog metrics will be added over time as the guide expands.

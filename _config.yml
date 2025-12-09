@@ -51,5 +51,8 @@ callouts:
   classification:
     title: Classification
     color: purple
+  example:
+    title: Example
+    color: purple
 
 math: katex

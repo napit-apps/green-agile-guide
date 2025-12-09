@@ -18,7 +18,7 @@ indirect
 systemic
 {: .label .label-purple }
 
-This metric represents the count of backlog items that include a direct reference to a **Green Product Goal**. By ensuring that each item is connected to a strategic sustainability objective, the metric improves traceability and alignment. It enables teams to see how iterative work contributes to broader sustainability intentions, supporting more deliberate planning and prioritization.
+This metric captures the number of backlog items that include an explicit reference to at least one **Green Product Goal**. Such a link demonstrates that the item meaningfully contributes to a defined sustainability ambition, such as reducing environmental impact, improving user behavior, enhancing long‑term efficiency, or aligning with organizational sustainability strategies. By ensuring that each item is connected to a strategic sustainability objective, the metric strengthens **traceability**, improves alignment, and enables teams to see how iterative work contributes to broader sustainability intentions. A growing number of linked items indicates stronger integration of sustainability into daily work and provides a clear signal of strategic focus in product planning and refinement.
 
 {: .classification }
 > 
@@ -26,11 +26,8 @@ This metric represents the count of backlog items that include a direct referenc
 - **Measurement Frequency:** per iteration  
 - **Responsible Role:** GPO  
 
-## Purpose
+## Impact
 The purpose of this metric is to ensure that backlog items are not treated as isolated tasks but are clearly tied to overarching sustainability goals. This strengthens **strategic coherence**, helps product teams remain focused on impactful directions, and enables more effective discussions during planning and refinement. Clear Item‑to‑Goal links also make it easier to understand how incremental improvements contribute to **long‑term sustainable product outcomes**.
-
-## Description
-This metric captures the number of backlog items that include an explicit reference to at least one **Green Product Goal**. Such a link demonstrates that the item meaningfully contributes to a defined sustainability ambition, such as reducing environmental impact, improving user behavior, enhancing long‑term efficiency, or aligning with organizational sustainability strategies. A growing number of linked items indicates stronger integration of sustainability into daily work. Unlike percentage-based metrics, this metric is designed as a **trend metric**, where an upward trajectory reflects improved strategic alignment.
 
 ## Calculation
  
@@ -39,6 +36,18 @@ $$
 $$
 
 This metric is a straightforward count. During each iteration, the team tallies how many backlog items include at least one reference to a Green Product Goal. An increase over time signals that sustainability goals are being actively incorporated into the backlog and that more items are aligned with the long‑term sustainability direction. Because products evolve, this metric should be interpreted as a **trend indicator**, with “increasing” as the desired direction rather than a fixed target value.
+
+## Example
+
+To illustrate this metric, consider a backlog containing **12 items** during an iteration.  
+If **5 of these items** explicitly reference a Green Product Goal, the metric value is:
+
+$$
+\text{Item-to-Goal Links} = 5
+$$
+
+Since this metric represents a **count**, not a percentage, the result is simply the number of items with a documented link.  
+An **increasing count over time** indicates that more work is being intentionally aligned with long‑term sustainability goals.
 
 ---
 <div style="display: flex; justify-content: space-between;">
