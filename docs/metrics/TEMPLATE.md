@@ -1,18 +1,19 @@
 ---
 layout: default
-title: Title of the Metric #ToDo
-nav_order: 3 #ToDo
-parent:  Metrics & Impact #ToDo
+title: #ToDo
+nav_order: #ToDo
+parent:  #ToDo
 permalink: #ToDo
 ---
 
 # Title of the Metric
-ecological
+environmental  
 {: .label .label-green }
-economic
+social  
 {: .label .label-green }
-social
+governance  
 {: .label .label-green }
+
 direct 
 {: .label .label-purple }
 indirect 
@@ -28,7 +29,7 @@ systemic
 - How does it influence backlog, architecture, testing, CI/CD, UX, or operations?  
 - Which Green Agile principles does it support (e.g., Value Focus, Lean, Flow, Carbon Awareness)?
 
-## Classification --> Lila Box (icon, tagging)
+## Classification
 
 {: .classification }
 > 

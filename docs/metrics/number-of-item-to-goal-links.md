@@ -3,18 +3,14 @@ layout: default
 title: Number of Item-to-Goal Links
 nav_order: 3
 parent: Product Management
-permalink:  /metrics/product-management/number-of-item-to-goal-links
+permalink:  /metrics-and-impact/product-management/number-of-item-to-goal-links
 ---
 
 # Number of Item-to-Goal Links
-ecological
+
+governance  
 {: .label .label-green }
-economic
-{: .label .label-green }
-social
-{: .label .label-green }
-indirect 
-{: .label .label-purple }
+
 systemic
 {: .label .label-purple }
 
@@ -51,6 +47,6 @@ An **increasing count over time** indicates that more work is being intentionall
 
 ---
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics/product-management/percentage-of-indirect-impact-items" style="text-small">← Percentage of Indirect Impact Items</a>
-  <a href="/metrics/" style="text-small"> →</a>
+  <a href="/metrics-and-impact/product-management/percentage-of-indirect-impact-items" style="text-small">← Percentage of Indirect Impact Items</a>
+  <a href="/metrics-and-impact/" style="text-small"> →</a>
 </div>

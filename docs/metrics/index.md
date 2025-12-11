@@ -3,7 +3,7 @@ layout: default
 title: Metrics & Impact
 nav_order: 3
 parent: 
-permalink: /metrics/
+permalink: /metrics-and-impact/
 ---
 
 # Green Agile Metrics
@@ -64,7 +64,7 @@ These examples highlight that sustainability decisions must be made with **full 
 
 The Green Agile framework organizes its metrics into clear categories to support different aspects of sustainable product development:
 
-- **[Product Management]**(/metrics/product-management)
+- **[Product Management]**(/metrics-and-impact/product-management)
 - **Architecture & Infrastructure**  
 - **Code, Build & CI/CD**  
 - **Data & AI**  
@@ -78,5 +78,5 @@ Explore each category to understand how quantitative insights can guide more sus
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics/product-management" style="text-small">Product Management →</a>
+  <a href="/metrics-and-impact/product-management" style="text-small">Product Management →</a>
 </div>

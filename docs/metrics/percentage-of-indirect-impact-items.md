@@ -3,16 +3,16 @@ layout: default
 title: Percentage of Indirect Impact Items
 nav_order: 2
 parent: Product Management
-permalink: /metrics/product-management/percentage-of-indirect-impact-items
+permalink: /metrics-and-impact/product-management/percentage-of-indirect-impact-items
 ---
 
 # Percentage of Indirect Impact Items
-ecological
+
+environmental  
 {: .label .label-green }
-economic
+social  
 {: .label .label-green }
-social
-{: .label .label-green }
+
 indirect 
 {: .label .label-purple }
 
@@ -51,6 +51,6 @@ This means that **31.8%** of the items in this release contribute to sustainabil
 
 ---
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics/product-management/percentage-of-backlog-items-with-impact-block" style="text-small">← Percentage of Backlog Items with Impact Block</a>
-  <a href="/metrics/product-management/number-of-item-to-goal-links" style="text-small">Number of Item-to-Goal Links →</a>
+  <a href="/metrics-and-impact/product-management/percentage-of-backlog-items-with-impact-block" style="text-small">← Percentage of Backlog Items with Impact Block</a>
+  <a href="/metrics-and-impact/product-management/number-of-item-to-goal-links" style="text-small">Number of Item-to-Goal Links →</a>
 </div>

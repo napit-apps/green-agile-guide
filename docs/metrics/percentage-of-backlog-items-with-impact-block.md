@@ -3,20 +3,16 @@ layout: default
 title: Percentage of Backlog Items with Impact Block
 nav_order: 1
 parent: Product Management
-permalink: /metrics/product-management/percentage-of-backlog-items-with-impact-block
+permalink: /metrics-and-impact/product-management/percentage-of-backlog-items-with-impact-block
 math: katex
 ---
 
 # Percentage of Backlog Items with Impact Block
-ecological
+
+governance  
 {: .label .label-green }
-economic
-{: .label .label-green }
-social
-{: .label .label-green }
-direct 
-{: .label .label-purple }
-indirect 
+
+systemic
 {: .label .label-purple }
 
 This metric shows the **percentage of backlog items** that contain a fully completed Impact Block. By making the intended **ecological, economic, and social effects** of each item explicit, it strengthens **transparency** and supports **value‑based prioritization** throughout the Green Agile workflow. A high coverage ensures that both **direct and indirect sustainability impacts** are identified early, enabling more informed decisions during planning, refinement, and delivery.
@@ -71,6 +67,6 @@ This result shows that **80% of the backlog** provides clear visibility into sus
 
 ---
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics/product-management" style="text-small">← Product Management</a>
-  <a href="/metrics/product-management/percentage-of-indirect-impact-items" style="text-small">Percentage of Indirect Impact Items →</a>
+  <a href="/metrics-and-impact/product-management" style="text-small">← Product Management</a>
+  <a href="/metrics-and-impact/product-management/percentage-of-indirect-impact-items" style="text-small">Percentage of Indirect Impact Items →</a>
 </div>
