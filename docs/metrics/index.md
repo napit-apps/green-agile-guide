@@ -64,8 +64,8 @@ These examples highlight that sustainability decisions must be made with **full 
 
 The Green Agile framework organizes its metrics into clear categories to support different aspects of sustainable product development:
 
-- **[Product Management]**(/metrics-and-impact/product-management)
-- **Architecture & Infrastructure**  
+- **[Product Management](/metrics-and-impact/product-management)**
+- **[Architecture & Infrastructure](/metrics-and-impact/architecture-and-infrastructure)**  
 - **Code, Build & CI/CD**  
 - **Data & AI**  
 - **UX, Accessibility & Frontend Performance**  
