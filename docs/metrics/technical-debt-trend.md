@@ -62,5 +62,5 @@ The Technical Debt Trend is **–30 hours**, indicating a reduction of debt and 
 ---
 <div style="display: flex; justify-content: space-between;">
   <a href="/metrics-and-impact/code-build-and-cicd/test-runs-per-change" style="text-small">← Test Runs per Change</a>
-  <a href="" style="text-small"> →</a>
+  <a href="/metrics-and-impact/code-build-and-cicd/sci" style="text-small">Software Carbon Intensity Score →</a>
 </div>

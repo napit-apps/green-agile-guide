@@ -23,6 +23,12 @@ Below is the list of all metrics in this category:
 - **[Technical Debt Trend](/metrics-and-impact/code-build-and-cicd/technical-debt-trend)**  
   Shows how technical debt evolves over time, helping teams understand long-term maintenance and sustainability risks.
 
+- **[Software Carbon Intensity (SCI) Score](/metrics-and-impact/code-build-and-cicd/sci)**  
+  Measures the carbon emissions of software per functional unit, enabling comparison of carbon efficiency across components, releases, and architectures.
+
+- **[Energy / Compute per Transaction or Job](/metrics-and-impact/code-build-and-cicd/energy-per-transaction-or-job)**  
+  Measures the energy or compute effort required per business transaction or batch job, providing a direct indicator of resource efficiency.
+
 ---
 <div style="display: flex; justify-content: space-between;">
   <a href="/metrics-and-impact" style="text-small">← Metrics & Impact</a>
