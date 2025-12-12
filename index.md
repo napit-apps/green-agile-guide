@@ -97,10 +97,9 @@ Each area addresses a specific aspect of agile product development from a sustai
 - [Outcome & Quality Anchoring](/guide/artefacts/outcome-quality-anchoring)
 
 ### Metrics & Impact
-
-{: .warning}
-This section is currently in development…
-
+- [Product Management](/metrics-and-impact/product-management)
+- [Architecture & Infrastructure](/metrics-and-impact/architecture-and-infrastructure) 
+- [Code, Build & CI/CD](/metrics-and-impact/code-build-and-cicd)
 
 {: .note }
 All sections are written with practical application in mind. The structure follows agile terminology but introduces sustainability-related additions and clarifications.
