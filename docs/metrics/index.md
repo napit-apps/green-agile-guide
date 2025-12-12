@@ -62,16 +62,17 @@ These examples highlight that sustainability decisions must be made with **full 
 
 ## Metric Categories
 
+This section is **work in progress**. The Green Agile Metrics framework is continuously evolving, and additional metrics and categories are being added over time. The structure below reflects the current state and will expand as new insights, practices, and sustainability needs emerge.
+
 The Green Agile framework organizes its metrics into clear categories to support different aspects of sustainable product development:
 
 - **[Product Management](/metrics-and-impact/product-management)**
 - **[Architecture & Infrastructure](/metrics-and-impact/architecture-and-infrastructure)**  
-- **Code, Build & CI/CD**  
+- **[Code, Build & CI/CD](/metrics-and-impact/code-build-and-cicd)**  
 - **Data & AI**  
 - **UX, Accessibility & Frontend Performance**  
 - **Operations & Observability**  
 - **Governance, Reporting & Compliance**  
-- **Global Sustainability Metrics (Cross‑Cutting)**  
 
 Explore each category to understand how quantitative insights can guide more sustainable choices throughout the entire product lifecycle.
 

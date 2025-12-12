@@ -24,7 +24,7 @@ An item is considered indirect when it does not directly reduce energy, compute,
 > 
 > - **Category:** Impact Beyond the Product  
 > - **Measurement Frequency:** per release  
-> - **Responsible Role:** GPO  
+> - **Responsible Role:** Product Lead  
 
 ## Impact
 The purpose of this metric is to highlight how much of the planned work contributes to **sustainability through user behavior** rather than internal technical optimization. It helps teams understand the balance between direct efficiency improvements and more strategic sustainability impact via user empowerment. This visibility enables better product strategy discussions and supports the creation of features that foster **long‑term, behavior‑driven impact**.

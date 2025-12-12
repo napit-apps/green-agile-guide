@@ -20,7 +20,7 @@ This metric captures the number of backlog items that include an explicit refere
 > 
 - **Category:** Transparency & Strategic Direction  
 - **Measurement Frequency:** per iteration  
-- **Responsible Role:** GPO  
+- **Responsible Role:** Product Lead  
 
 ## Impact
 The purpose of this metric is to ensure that backlog items are not treated as isolated tasks but are clearly tied to overarching sustainability goals. This strengthens **strategic coherence**, helps product teams remain focused on impactful directions, and enables more effective discussions during planning and refinement. Clear Item‑to‑Goal links also make it easier to understand how incremental improvements contribute to **long‑term sustainable product outcomes**.

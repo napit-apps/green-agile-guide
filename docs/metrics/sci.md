@@ -14,7 +14,10 @@ environmental
 systemic  
 {: .label .label-purple }
 
-The Software Carbon Intensity (SCI) Score measures the **carbon emissions associated with a software system per functional unit (FU)**. It provides a comparable and transparent metric for understanding the environmental impact of software components across versions, architectures, or deployment environments. Because SCI normalizes emissions by a functional unit, it allows teams to track carbon efficiency independently of workload volume or user growth.
+The Software Carbon Intensity (SCI) Score, defined by the **Green Software Foundation**, measures the **carbon emissions associated with a software system per functional unit (FU)**. The SCI has been standardized as an **ISO standard**, making it the internationally recognized reference for quantifying and comparing the carbon efficiency of software systems.  
+More details and the official specification are available from the [Green Software Foundation](https://sci.greensoftware.foundation).
+
+It provides a comparable and transparent metric for understanding the environmental impact of software components across versions, architectures, or deployment environments. Because SCI normalizes emissions by a functional unit, it allows teams to track carbon efficiency independently of workload volume or user growth.
 
 The SCI Score integrates three core elements:
 - **E** — the energy consumed by the software  
