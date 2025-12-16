@@ -13,7 +13,10 @@ environmental
 governance  
 {: .label .label-green }
 
-direct   
+direct  
+{: .label .label-purple }
+
+systemic  
 {: .label .label-purple }
 
 This metric measures the **average compute time consumed per batch or machine‑learning job**, expressed in CPU or GPU hours. It captures how resource‑intensive data processing and ML workloads are in practice and makes heavy or inefficient jobs visible. Because batch and ML jobs often dominate compute usage in data‑driven systems, this metric is a key indicator for steering efficiency in Data & AI workloads.

@@ -11,6 +11,9 @@ permalink: /metrics-and-impact/code-build-and-cicd/sci
 environmental  
 {: .label .label-green }
 
+governance  
+{: .label .label-green }
+
 systemic  
 {: .label .label-purple }
 

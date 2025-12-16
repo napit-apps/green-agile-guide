@@ -13,7 +13,7 @@ environmental
 governance  
 {: .label .label-green }
 
-systemic
+systemic  
 {: .label .label-purple }
 
 This metric measures the **effective data retention duration across data domains**, expressed as a weighted average of how long different data volumes are stored. It makes visible how long data is kept in practice — not just what retention policies define — and supports data minimization by highlighting long-lived or over-retained datasets.
@@ -31,7 +31,7 @@ In a Green Agile context, Retention Days helps teams balance **compliance requir
 ## Impact
 Monitoring retention days supports sustainable data lifecycle management. High or increasing retention values may indicate missing deletion processes, overly conservative defaults, or unclear ownership of data domains. Reducing retention duration — while remaining compliant — lowers storage demand, reduces long-term energy consumption, and simplifies data governance.
 
-Because retention decisions are influenced by regulatory constraints, product strategy, and user expectations, this metric reflects **indirect environmental impact**. It complements Data Volume by explaining *why* data persists and provides essential context for storage- and compute-related emissions.
+Because retention decisions are influenced by regulatory constraints, product strategy, and user expectations, this metric reflects a **systemic impact** across processes, teams, and long-term system behavior.
 
 ## Calculation
 

@@ -14,12 +14,15 @@ social
 governance  
 {: .label .label-green }
 
+direct  
+{: .label .label-purple }
+
 systemic  
 {: .label .label-purple }
 
 This metric measures the **percentage of applicable WCAG 2.2 success criteria that are fulfilled**, with a focus on achieving at least **Level AA** compliance. It makes the accessibility level of a digital product explicit and comparable, supporting inclusive user experiences for people with disabilities and diverse access needs.
 
-In a Green Agile context, the WCAG 2.2 Compliance Rate serves as a **systemic inclusion metric**. Accessibility is not a one‑time feature but a continuous quality attribute that depends on design decisions, development practices, testing processes, and governance structures.
+In a Green Agile context, the WCAG 2.2 Compliance Rate is a **direct inclusion metric with systemic implications**. Improving compliance reduces barriers for users immediately, while sustained progress depends on long‑term design decisions, development practices, testing processes, and governance structures.
 
 ## Classification
 
@@ -32,7 +35,7 @@ In a Green Agile context, the WCAG 2.2 Compliance Rate serves as a **systemic in
 ## Impact
 A high WCAG compliance rate indicates that accessibility requirements are consistently integrated into the product lifecycle. Improving this metric directly enhances **social sustainability** by reducing barriers for users with visual, auditory, motor, or cognitive impairments.
 
-Because accessibility is shaped by cross‑functional decisions and long‑term practices, this metric has a **systemic effect**. It encourages teams to embed accessibility into design systems, coding standards, testing pipelines, and review processes. Failing to meet WCAG requirements can exclude users, create legal risk, and undermine trust — making accessibility a core sustainability concern rather than an optional enhancement.
+Because accessibility is shaped by cross‑functional decisions and long‑term practices, improving this metric combines a **direct social effect** with a **systemic effect** over time. It encourages teams to embed accessibility into design systems, coding standards, testing pipelines, and review processes. Failing to meet WCAG requirements can exclude users, create legal risk, and undermine trust — making accessibility a core sustainability concern rather than an optional enhancement.
 
 ## Calculation
 

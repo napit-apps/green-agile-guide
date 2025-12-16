@@ -69,10 +69,10 @@ The Green Agile framework organizes its metrics into clear categories to support
 - **[Product Management](/metrics-and-impact/product-management)**
 - **[Architecture & Infrastructure](/metrics-and-impact/architecture-and-infrastructure)**  
 - **[Code, Build & CI/CD](/metrics-and-impact/code-build-and-cicd)**  
-- **Data & AI**  
-- **UX, Accessibility & Frontend Performance**  
-- **Operations & Observability**  
-- **Governance, Reporting & Compliance**  
+- **[Data & AI](/metrics-and-impact/data-and-ai/)**  
+- **[UX, Accessibility & Frontend Performance](/metrics-and-impact/ux-accessibility-and-frontend-performance/)**  
+- **[Operations & Observability](/metrics-and-impact/operations-and-observability/)**  
+- **[Governance, Reporting & Compliance](/metrics-and-impact/governance-reporting-and-compliance/)**  
 
 Explore each category to understand how quantitative insights can guide more sustainable choices throughout the entire product lifecycle.
 

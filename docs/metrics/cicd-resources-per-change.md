@@ -14,6 +14,9 @@ environmental
 governance  
 {: .label .label-green }
 
+direct  
+{: .label .label-purple }
+
 systemic  
 {: .label .label-purple }
 

@@ -11,6 +11,9 @@ permalink: /metrics-and-impact/code-build-and-cicd/energy-per-transaction-or-job
 environmental  
 {: .label .label-green }
 
+governance  
+{: .label .label-green }
+
 direct  
 {: .label .label-purple }
 

@@ -14,6 +14,9 @@ environmental
 social  
 {: .label .label-green }
 
+governance  
+{: .label .label-green }
+
 direct  
 {: .label .label-purple }
 
@@ -30,7 +33,7 @@ In a Green Agile context, LCP connects **user experience quality with energy eff
 > - **Responsibility:** Engineering Team
 
 ## Impact
-A low LCP value improves perceived performance and reduces user frustration, especially on low-end devices or slow networks. Faster rendering reduces the time devices spend at high power states, contributing to lower energy consumption during page load. Improving LCP therefore supports both **environmental sustainability** and **social sustainability** by enabling accessible, performant experiences for a broad range of users.
+A low LCP value improves perceived performance and reduces user frustration, especially on low-end devices or slow networks. Because teams often set LCP as a release KPI or performance budget, it also supports governance by making performance and sustainability trade-offs explicit and measurable. Faster rendering reduces the time devices spend at high power states, contributing to lower energy consumption during page load. Improving LCP therefore supports both **environmental sustainability** and **social sustainability** by enabling accessible, performant experiences for a broad range of users.
 
 Because LCP directly reflects frontend delivery efficiency, it is a **direct-impact metric**. It encourages teams to optimize images, fonts, scripts, and loading strategies, and to prioritize meaningful content over decorative or blocking elements.
 

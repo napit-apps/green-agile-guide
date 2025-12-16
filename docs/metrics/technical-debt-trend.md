@@ -8,6 +8,9 @@ permalink: /metrics-and-impact/code-build-and-cicd/technical-debt-trend
 
 # Technical Debt Trend
 
+environmental  
+{: .label .label-green }
+
 governance  
 {: .label .label-green }
 

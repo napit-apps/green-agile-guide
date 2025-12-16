@@ -17,6 +17,9 @@ governance
 direct  
 {: .label .label-purple }
 
+systemic  
+{: .label .label-purple }
+
 This metric measures the **total compute time consumed during a deployment**, expressed as aggregated CPU time across all deployment steps. It captures how resource‑intensive the delivery process is and makes operational overhead during releases visible.
 
 In a Green Agile context, Compute Time per Deployment connects **delivery efficiency with operational sustainability**. Frequent or inefficient deployments can silently consume significant compute resources through build steps, infrastructure provisioning, migrations, and verification tasks. Making this effort explicit supports conscious trade‑offs between deployment frequency, automation, and resource usage.
@@ -32,7 +35,7 @@ In a Green Agile context, Compute Time per Deployment connects **delivery effici
 ## Impact
 Tracking compute time per deployment helps teams understand the **operational cost of delivery**. A decreasing trend indicates more efficient deployment pipelines, better automation, and reduced overhead. An increasing trend may point to overly complex deployment processes, redundant checks, or inefficient infrastructure operations.
 
-Because this metric measures compute consumption directly caused by deployment activities, it represents a **direct environmental impact**. At the same time, it acts as a governance lever by encouraging teams to design lean, reliable, and energy‑aware delivery processes.
+Because this metric measures compute consumption directly caused by deployment activities, it represents a **direct environmental impact**. At the same time, improvements typically require changes to deployment architecture, automation strategies, and organizational delivery practices. The metric therefore also represents a **systemic impact**, acting as a governance lever that encourages teams to design lean, reliable, and energy‑aware delivery processes over time.
 
 ## Calculation
 

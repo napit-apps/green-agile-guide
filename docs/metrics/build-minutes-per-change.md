@@ -10,8 +10,12 @@ permalink: /metrics-and-impact/code-build-and-cicd/build-minutes-per-change
 
 environmental  
 {: .label .label-green }
+governance  
+{: .label .label-green }
 
 direct  
+{: .label .label-purple }
+systemic  
 {: .label .label-purple }
 
 This metric measures the **total build time consumed per code change** within the CI/CD pipeline. It reflects how efficiently the build system uses compute resources and highlights unnecessary costs, delays, and energy consumption. High build times increase feedback cycles, slow down delivery flow, and consume excessive compute resources — all of which negatively impact sustainability and team productivity.

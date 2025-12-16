@@ -14,6 +14,9 @@ environmental
 social  
 {: .label .label-green }
 
+governance  
+{: .label .label-green }
+
 direct  
 {: .label .label-purple }
 

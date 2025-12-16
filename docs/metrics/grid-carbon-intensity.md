@@ -11,7 +11,10 @@ permalink: /metrics-and-impact/architecture-and-infrastructure/grid-carbon-inten
 environmental  
 {: .label .label-green }
 
-indirect  
+governance  
+{: .label .label-green }
+
+systemic  
 {: .label .label-purple }
 
 This metric captures the **carbon intensity of electricity** in the region where a workload is hosted. Grid Carbon Intensity (measured in gCO₂e per kWh) indicates how much greenhouse gas emissions are produced for each kilowatt-hour of electricity consumed. Since electricity generation varies significantly by region — depending on the mix of renewable, nuclear, and fossil energy sources — the same workload can have a drastically different carbon footprint depending on where it runs.
@@ -27,7 +30,7 @@ This metric is important for Green Agile because it makes the **environmental im
 > - **Responsibility:** Product Lead (regional strategy), Engineering Team (documentation)
 
 ## Impact
-Tracking grid carbon intensity supports more sustainable architectural choices by revealing how regional electricity generation affects overall emissions. It exposes the environmental consequences of region selection and helps teams evaluate whether alternatives — such as migrating workloads, scheduling flexible tasks to greener regions, or adopting carbon‑aware architectures — can reduce emissions. Because this metric reflects external energy infrastructure rather than internal system behavior, it highlights **indirect environmental impact** and ensures that hosting decisions are aligned with ecological sustainability goals.
+Tracking grid carbon intensity supports more sustainable architectural choices by revealing how regional electricity generation affects overall emissions. It exposes the environmental consequences of region selection and helps teams evaluate whether alternatives — such as migrating workloads, scheduling flexible tasks to greener regions, or adopting carbon‑aware architectures — can reduce emissions. Because this metric reflects external energy infrastructure and regional grid conditions rather than internal system behavior, it represents a **systemic environmental impact** and ensures that hosting decisions are aligned with ecological sustainability goals.
 
 ## Calculation
 

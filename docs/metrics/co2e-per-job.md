@@ -11,6 +11,9 @@ permalink: /metrics-and-impact/data-and-ai/co2e-per-job
 environmental  
 {: .label .label-green }
 
+governance  
+{: .label .label-green }
+
 direct  
 {: .label .label-purple }
 

@@ -16,6 +16,9 @@ governance
 systemic
 {: .label .label-purple }
 
+indirect
+{: .label .label-purple }
+
 This metric measures the **total volume of data stored for a product or system**, expressed in gigabytes. It captures how much persistent data is retained across databases, object storage, file systems, and other relevant data stores. Data volume is a foundational sustainability indicator because stored data continuously consumes resources through storage infrastructure, replication, backups, and long‑term maintenance.
 
 For Green Agile, Data Volume makes the often invisible impact of data accumulation explicit. Growing data volumes increase energy consumption, storage costs, operational complexity, and long‑term environmental footprint. Tracking this metric enables teams to identify unnecessary data growth, validate data‑minimization strategies, and make informed decisions about retention, compression, aggregation, and deletion.
@@ -30,6 +33,8 @@ For Green Agile, Data Volume makes the often invisible impact of data accumulati
 
 ## Impact
 Monitoring data volume supports sustainable data practices by revealing how storage footprint evolves over time. A continuously increasing data volume may indicate missing retention policies, overly verbose logging, redundant datasets, or uncontrolled feature growth. Reducing or stabilizing data volume lowers energy use in storage systems, decreases backup and replication overhead, and improves system maintainability.
+
+Because data volume is influenced by product decisions, user behavior, and regulatory requirements, this metric reflects **indirect environmental impact** while also capturing **systemic effects** across data architecture, retention strategies, and long‑term system evolution.
 
 Because data volume is influenced by product decisions, user behavior, and regulatory requirements, this metric reflects **indirect environmental impact**. It provides an essential baseline for related metrics such as Retention Days, Compute Hours per Job, and CO₂e Emissions per Job.
 

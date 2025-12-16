@@ -11,8 +11,15 @@ permalink: /metrics-and-impact/architecture-and-infrastructure/pue-per-region
 environmental  
 {: .label .label-green }
 
-indirect  
+governance  
+{: .label .label-green }
+
+systemic  
 {: .label .label-purple }
+
+direct  
+{: .label .label-purple }
+
 
 This metric captures the **Power Usage Effectiveness (PUE)** of the data center region in which a workload operates. PUE is an industry‑standard measure that reflects how efficiently a data center uses energy by comparing the **total facility energy consumption** with the **energy delivered to IT equipment**. **A lower PUE indicates** that more of the consumed electricity powers compute resources instead of cooling, lighting, or other facility overhead.
 

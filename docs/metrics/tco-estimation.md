@@ -11,6 +11,9 @@ permalink: /metrics-and-impact/governance-reporting-and-compliance/tco-estimatio
 governance  
 {: .label .label-green }
 
+indirect  
+{: .label .label-purple }
+
 systemic  
 {: .label .label-purple }
 

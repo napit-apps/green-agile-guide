@@ -17,6 +17,9 @@ governance
 direct  
 {: .label .label-purple }
 
+systemic  
+{: .label .label-purple }
+
 This metric measures the **average CPU time consumed per transaction**, expressed in CPU milliseconds. It makes visible how much processing effort is required to handle a single business transaction and helps identify runtime inefficiencies and performance hotspots in production systems.
 
 In a Green Agile context, CPU Time per Transaction links **runtime efficiency, operational sustainability, and system scalability**. High CPU usage per transaction often indicates inefficient code paths, expensive database operations, or missing caching, all of which increase energy consumption and infrastructure demand.

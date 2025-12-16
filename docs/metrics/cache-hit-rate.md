@@ -17,6 +17,9 @@ governance
 direct  
 {: .label .label-purple }
 
+systemic  
+{: .label .label-purple }
+
 This metric measures the **percentage of requests that are served from cache instead of being processed by the underlying system**. It makes visible how effectively caching mechanisms reduce load on databases, services, and infrastructure.
 
 In a Green Agile context, Cache Hit Rate connects **performance optimization with energy and resource efficiency**. Serving requests from cache typically requires significantly less compute, memory access, and network traffic than processing them end‑to‑end, resulting in lower latency and reduced energy consumption.
@@ -32,7 +35,7 @@ In a Green Agile context, Cache Hit Rate connects **performance optimization wit
 ## Impact
 A high cache hit rate indicates that repeated or predictable requests are efficiently reused instead of recomputed. This reduces system load, improves response times, and lowers energy consumption across the runtime environment. It also increases system resilience under high traffic by protecting backend services from unnecessary load.
 
-Because this metric directly reflects how many requests avoid full processing, it represents a **direct environmental impact**. At the same time, it acts as a governance lever by encouraging thoughtful cache strategies, data freshness rules, and invalidation policies.
+Because this metric directly reflects how many requests avoid full processing, it represents a **direct environmental impact**. At the same time, improving cache hit rate is typically a **systemic lever**, because it depends on cross-cutting decisions about cache strategy, data freshness, and invalidation across services.
 
 ## Calculation
 
