@@ -63,5 +63,5 @@ If the same job is optimized to consume **18 kWh**, or is moved to a region with
 ---
 <div style="display: flex; justify-content: space-between;">
   <a href="/metrics-and-impact/data-and-ai/compute-hours-per-job" style="text-small">← Compute Hours per Job</a>
-  <a href="" style="text-small"> →</a>
+  <a href="/metrics-and-impact/ux-accessibility-and-frontend-performance" style="text-small">UX, Accessibility & Frontend Performance →</a>
 </div>
