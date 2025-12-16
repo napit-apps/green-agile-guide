@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Software Carbon Intensity Score
+title: Software Carbon Intensity (SCI) Score
 nav_order: 4
 parent: Code, Build & CI/CD
 permalink: /metrics-and-impact/code-build-and-cicd/sci

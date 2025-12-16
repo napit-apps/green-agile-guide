@@ -82,6 +82,6 @@ In the next release, after optimizing database queries and introducing caching, 
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics-and-impact/code-build-and-cicd/sci" style="text-small">← Software Carbon Intensity Score</a>
+  <a href="/metrics-and-impact/code-build-and-cicd/sci" style="text-small">← Software Carbon Intensity (SCI) Score</a>
   <a href="/metrics-and-impact/data-and-ai" style="text-small">Data & AI →</a>
 </div>
