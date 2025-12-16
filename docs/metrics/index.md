@@ -10,6 +10,27 @@ permalink: /metrics-and-impact/
 
 Sustainable product development requires more than good intentions — it requires **visibility**. In Green Agile, we quantify what matters, because meaningful change is only possible when teams understand **where they stand** and **how their decisions shift impact over time**. Metrics help teams recognize progress, identify obstacles, and continuously improve ecological, economical und sozial sustainability.
 
+All Green Agile metrics are intentionally classified along two complementary dimensions: **ESG areas** and **impact types**.  
+This dual classification helps teams understand *what* kind of sustainability a metric relates to and *how* its effect unfolds in practice.
+
+Each metric is assigned to one or more **ESG areas**:
+
+{: .classification }
+> 
+- **Environmental**: Focuses on energy consumption, emissions, resource usage, and ecological efficiency.
+- **Social**: Addresses accessibility, inclusion, fairness, and the well‑being of users or employees.
+- **Governance**: Supports transparency, accountability, decision‑making, compliance, and long‑term organizational sustainability.
+
+In addition, every metric is assigned an **impact type** that describes how change is created:
+
+{: .classification }
+> 
+- **Direct**: Measures effects that occur immediately when the metric improves, such as reduced energy usage or improved accessibility.
+- **Indirect**: Captures effects that emerge through changed behavior or decisions by users or organizations.
+- **Systemic**: Reflects long‑term, structural effects across systems, teams, or processes and typically improves through coordinated, continuous action.
+
+Together, ESG classification and impact type provide essential context for interpreting metrics and for making informed, balanced sustainability decisions.
+
 ## Why Quantification Matters
 
 Improvement requires measurement. Without a baseline, there is no way to understand whether a feature, architectural decision, or workflow actually reduces environmental impact or increases long‑term sustainability. Metrics make sustainability **actionable**, **transparent**, and **comparable**, allowing teams to make informed decisions instead of assumptions.
@@ -62,7 +83,10 @@ These examples highlight that sustainability decisions must be made with **full 
 
 ## Metric Categories
 
-This section is **work in progress**. The Green Agile Metrics framework is continuously evolving, and additional metrics and categories are being added over time. The structure below reflects the current state and will expand as new insights, practices, and sustainability needs emerge.
+This section represents the **current, complete baseline** of the Green Agile Metrics framework.  
+At the same time, the framework is designed as an **open‑source and collaborative system**: everyone is invited to contribute improvements, refinements, and new metrics over time.
+
+While the existing categories and metrics form a coherent and usable foundation today, the framework will continue to evolve as practices mature, new sustainability challenges emerge, and the community contributes additional insights.
 
 The Green Agile framework organizes its metrics into clear categories to support different aspects of sustainable product development:
 

@@ -53,6 +53,6 @@ callouts:
     color: purple
   example:
     title: Example
-    color: purple
+    color: yellow
 
 math: katex
