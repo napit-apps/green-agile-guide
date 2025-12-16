@@ -18,10 +18,10 @@ This section provides an overview of all **Governance, Reporting & Compliance** 
 - **[Audit Findings & Deviations](/metrics-and-impact/governance-reporting-and-compliance/audit-findings)**  
   Captures the number of audits and identified deviations, highlighting governance maturity and compliance gaps.
 
-- **[Time to Evidence](/metrics-and-impact/governance-reporting-and-compliance/time-to-evidence)**  
+- **[Time to Evidence (h)](/metrics-and-impact/governance-reporting-and-compliance/time-to-evidence)**  
   Measures the time required to provide audit-ready evidence, reflecting process maturity and reporting efficiency.
 
-- **[Total Cost of Ownership](/metrics-and-impact/governance-reporting-and-compliance/tco-estimation)**  
+- **[Total Cost of Ownership (TCO) Estimation (3–5 Years)](/metrics-and-impact/governance-reporting-and-compliance/tco-estimation)**  
   Estimates long-term costs for operating and maintaining a system, supporting sustainable and economically sound decisions.
 
 - **[Maintenance Effort Trend](/metrics-and-impact/governance-reporting-and-compliance/maintenance-effort-trend)**  

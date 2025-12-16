@@ -48,5 +48,5 @@ An **increasing count over time** indicates that more work is being intentionall
 ---
 <div style="display: flex; justify-content: space-between;">
   <a href="/metrics-and-impact/product-management/percentage-of-indirect-impact-items" style="text-small">← Percentage of Indirect Impact Items</a>
-  <a href="/metrics-and-impact/" style="text-small"> →</a>
+  <a href="/metrics-and-impact/architecture-and-infrastructure/" style="text-small">Architecture & Infrastructure →</a>
 </div>

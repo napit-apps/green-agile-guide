@@ -34,6 +34,6 @@ Below is the list of all metrics in this category:
 
 ---
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics-and-impact/code-build-and-cicd/energy-per-transaction-or-job" style="text-small">← Energy per Compute per Transaction or Job</a>
+  <a href="/metrics-and-impact/data-and-ai/co2e-per-job" style="text-small">← CO₂e Emissions per Job</a>
   <a href="/metrics-and-impact/ux-accessibility-and-frontend-performance/wcag-compliance-rate" style="text-small">WCAG 2.2 Compliance Rate →</a>
 </div>

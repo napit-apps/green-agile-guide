@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PUE per Region
+title: Power Usage Effectiveness (PUE) per Region
 nav_order: 2
 parent: Architecture & Infrastructure
 permalink: /metrics-and-impact/architecture-and-infrastructure/pue-per-region

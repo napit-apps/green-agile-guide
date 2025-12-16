@@ -94,6 +94,6 @@ This example illustrates how strongly a region’s electricity mix influences it
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics-and-impact/architecture-and-infrastructure/pue-per-region" style="text-small">← PUE per Region</a>
+  <a href="/metrics-and-impact/architecture-and-infrastructure/pue-per-region" style="text-small">← Power Usage Effectiveness (PUE) per Region</a>
   <a href="/metrics-and-impact/code-build-and-cicd" style="text-small">Code, Build & CI/CD →</a>
 </div>

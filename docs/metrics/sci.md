@@ -85,6 +85,6 @@ If the team later improves caching and reduces energy consumption to **900 kWh**
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics-and-impact/code-build-and-cicd/technical-debt-trend" style="text-small">← Technical Debt Trend</a>
+  <a href="/metrics-and-impact/code-build-and-cicd/energy-per-transaction-or-job" style="text-small">← Energy per Compute per Transaction or Job</a>
   <a href="/metrics-and-impact/data-and-ai" style="text-small">Data & AI →</a>
 </div>
