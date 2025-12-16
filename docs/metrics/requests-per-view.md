@@ -60,5 +60,5 @@ If previous releases averaged **50 requests per view**, the reduction indicates 
 ---
 <div style="display: flex; justify-content: space-between;">
   <a href="/metrics-and-impact/ux-accessibility-and-frontend-performance/bytes-per-view" style="text-small">← Bytes per View</a>
-  <a href="/metrics-and-impact/" style="text-small">Metrics & Impact →</a>
+  <a href="/metrics-and-impact/operations-and-observability" style="text-small">Operations & Observability →</a>
 </div>
