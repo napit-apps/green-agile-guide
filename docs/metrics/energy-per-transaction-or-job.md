@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Energy per Compute per Transaction or Job
-nav_order: 5
+nav_order: 6
 parent: Code, Build & CI/CD
 permalink: /metrics-and-impact/code-build-and-cicd/energy-per-transaction-or-job
 ---
@@ -9,6 +9,9 @@ permalink: /metrics-and-impact/code-build-and-cicd/energy-per-transaction-or-job
 # Energy per Compute per Transaction or Job
 
 environmental  
+{: .label .label-green }
+
+governance  
 {: .label .label-green }
 
 direct  
@@ -82,6 +85,6 @@ In the next release, after optimizing database queries and introducing caching, 
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics-and-impact/code-build-and-cicd/sci" style="text-small">← Software Carbon Intensity Score</a>
-  <a href="/metrics-and-impact/" style="text-small">Metrics & Impact →</a>
+  <a href="/metrics-and-impact/code-build-and-cicd/hotspot-trend" style="text-small">← Hotspot Trend</a>
+  <a href="/metrics-and-impact/code-build-and-cicd/sci" style="text-small">Software Carbon Intensity (SCI) Score →</a>
 </div>

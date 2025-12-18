@@ -100,6 +100,9 @@ Each area addresses a specific aspect of agile product development from a sustai
 - [Product Management](/metrics-and-impact/product-management)
 - [Architecture & Infrastructure](/metrics-and-impact/architecture-and-infrastructure) 
 - [Code, Build & CI/CD](/metrics-and-impact/code-build-and-cicd)
+- [Data & AI](/metrics-and-impact/data-and-ai)
+- [Operations & Observability](/metrics-and-impact/operations-and-observability)
+- [Governance, Reporting & Compliance](/metrics-and-impact/governance-reporting-and-compliance)
 
 {: .note }
 All sections are written with practical application in mind. The structure follows agile terminology but introduces sustainability-related additions and clarifications.

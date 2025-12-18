@@ -8,12 +8,14 @@ permalink: /metrics-and-impact/product-management/percentage-of-indirect-impact-
 
 # Percentage of Indirect Impact Items
 
-environmental  
-{: .label .label-green }
 social  
 {: .label .label-green }
+governance  
+{: .label .label-green }
 
-indirect 
+indirect  
+{: .label .label-purple }
+systemic  
 {: .label .label-purple }
 
 This metric captures the **percentage of backlog items** that enable users or the organization to adopt more sustainable behaviors. It reflects how strongly a product contributes to **indirect sustainability impact** by influencing user decisions, promoting resource‑efficient usage patterns, or reducing avoidable environmental footprints. As a **reporting metric**, it does not define a fixed target value; the desirable share depends on the product’s nature, maturity, and sustainability strategy.

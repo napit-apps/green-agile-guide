@@ -8,6 +8,9 @@ permalink: /metrics-and-impact/code-build-and-cicd/technical-debt-trend
 
 # Technical Debt Trend
 
+environmental  
+{: .label .label-green }
+
 governance  
 {: .label .label-green }
 
@@ -62,5 +65,5 @@ The Technical Debt Trend is **–30 hours**, indicating a reduction of debt and 
 ---
 <div style="display: flex; justify-content: space-between;">
   <a href="/metrics-and-impact/code-build-and-cicd/test-runs-per-change" style="text-small">← Test Runs per Change</a>
-  <a href="/metrics-and-impact/code-build-and-cicd/sci" style="text-small">Software Carbon Intensity Score →</a>
+  <a href="/metrics-and-impact/code-build-and-cicd/cicd-resources-per-change" style="text-small">CI/CD Resources per Change →</a>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Software Carbon Intensity Score
-nav_order: 4
+title: Software Carbon Intensity (SCI) Score
+nav_order: 7
 parent: Code, Build & CI/CD
 permalink: /metrics-and-impact/code-build-and-cicd/sci
 ---
@@ -9,6 +9,9 @@ permalink: /metrics-and-impact/code-build-and-cicd/sci
 # Software Carbon Intensity (SCI) Score
 
 environmental  
+{: .label .label-green }
+
+governance  
 {: .label .label-green }
 
 systemic  
@@ -85,6 +88,6 @@ If the team later improves caching and reduces energy consumption to **900 kWh**
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="/metrics-and-impact/code-build-and-cicd/technical-debt-trend" style="text-small">← Technical Debt Trend</a>
-  <a href="/metrics-and-impact/code-build-and-cicd/energy-per-transaction-or-job" style="text-small">Energy per Compute per Transaction or Job →</a>
+  <a href="/metrics-and-impact/code-build-and-cicd/energy-per-transaction-or-job" style="text-small">← Energy per Compute per Transaction or Job</a>
+  <a href="/metrics-and-impact/data-and-ai" style="text-small">Data & AI →</a>
 </div>

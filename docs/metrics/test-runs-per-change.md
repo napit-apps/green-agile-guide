@@ -11,11 +11,11 @@ permalink: /metrics-and-impact/code-build-and-cicd/test-runs-per-change
 environmental  
 {: .label .label-green }
 
-direct  
-{: .label .label-purple }
-
 governance  
 {: .label .label-green }
+
+direct  
+{: .label .label-purple }
 
 systemic  
 {: .label .label-purple }
@@ -39,7 +39,7 @@ The metric is calculated by summing all relevant test executions during an itera
 
 $$
 \text{Test Runs per Change} = 
-\frac{\sum \text{Test Runs}}{\# \text{Changes}}
+\frac{\sum \text{Test Runs}}{\text{Number}_{\text{changes}}}
 $$
 
 A **lower value is better**, and teams should define target thresholds based on product complexity, test coverage requirements, and the desired balance between fast feedback and reliable validation.

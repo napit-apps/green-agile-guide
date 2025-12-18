@@ -20,7 +20,7 @@ Below is the list of all metrics in this category:
 - **[Power Usage Effectiveness (PUE) per Region](/metrics-and-impact/architecture-and-infrastructure/pue-per-region)**  
   Tracks the data center energy efficiency of the hosting region, supporting sustainable workload placement.
 
-- **[Grid Carbon Intensity](/metrics-and-impact/architecture-and-infrastructure/grid-carbon-intensity)**  
+- **[Grid Carbon Intensity (gCO₂e per kWh, Region)](/metrics-and-impact/architecture-and-infrastructure/grid-carbon-intensity)**  
   Indicates the carbon intensity of electricity in the selected region, helping teams understand and optimize the environmental footprint of hosting choices.
 
 More Architecture & Infrastructure metrics will be added over time as the guide expands.

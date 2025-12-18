@@ -50,5 +50,5 @@ The ADR-Light Coverage for this iteration is **80%**, which meets the recommende
 ---
 <div style="display: flex; justify-content: space-between;">
   <a href="/metrics-and-impact/architecture-and-infrastructure" style="text-small">← Architecture & Infrastructure</a>
-  <a href="/metrics-and-impact/architecture-and-infrastructure/pue-per-region" style="text-small">PUE per Region →</a>
+  <a href="/metrics-and-impact/architecture-and-infrastructure/pue-per-region" style="text-small">Power Usage Effectiveness (PUE) per Region →</a>
 </div>
